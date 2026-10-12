@@ -1,0 +1,12 @@
+package com.example.devopsjavaapp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DevopsJavaAppApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(DevopsJavaAppApplication.class, args);
+    }
+}
